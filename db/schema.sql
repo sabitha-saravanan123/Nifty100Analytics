@@ -1,0 +1,11 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE companies (company_id INTEGER PRIMARY KEY,company_name TEXT,sector TEXT);
+CREATE TABLE profitandloss (company_id INTEGER,year INTEGER,sales REAL,net_profit REAL,PRIMARY KEY (company_id, year),FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE balancesheet (company_id INTEGER,year INTEGER,assets REAL,liabilities REAL,PRIMARY KEY (company_id, year),FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE cashflow (company_id INTEGER,year INTEGER,operating_cash_flow REAL,PRIMARY KEY (company_id, year),FOREIGN KEY (company_id) REFERENCES companies(company_id));
+CREATE TABLE analysis (company_id INTEGER PRIMARY KEY,analysis TEXT,FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE documents (company_id INTEGER PRIMARY KEY,annual_report_url TEXT,FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE prosandcons (company_id INTEGER PRIMARY KEY,pros TEXT,cons TEXT,FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE sectors (sector_id INTEGER PRIMARY KEY,sector_name TEXT);
+CREATE TABLE stock_prices (company_id INTEGER,date TEXT,close_price REAL,FOREIGN KEY (company_id)REFERENCES companies(company_id));
+CREATE TABLE financial_ratios ( company_id INTEGER,year INTEGER,roe REAL,debt_to_equity REAL,PRIMARY KEY (company_id, year),FOREIGN KEY (company_id)REFERENCES companies(company_id));
