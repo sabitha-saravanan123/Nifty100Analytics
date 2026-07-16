@@ -1,8 +1,9 @@
 import sqlite3
 import pandas as pd
 import streamlit as st
-from src.dashboard.utils.db import get_ratios
-DB = "db/nifty100.db"
+import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
+DB = os.path.join(BASE_DIR, "db", "nifty100.db")
 @st.cache_data
 def get_table(table):
     conn = sqlite3.connect(DB)
