@@ -14,3 +14,5 @@ def get_companies():
     return get_table("companies")
 def get_ratios():
     return get_table("financial_ratios")
+def get_valuation():
+    return get_table("financial_ratios")
