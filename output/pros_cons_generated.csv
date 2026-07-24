@@ -1,0 +1,1411 @@
+company_id,type,rule_id,text,confidence_pct
+1,Pro,P3,Healthy net profit margin.,80
+1,Con,C1,Low return on equity.,85
+1,Con,C2,Low return on capital employed.,85
+1,Con,C6,Low asset utilization.,75
+1,Pro,P2,Strong return on capital employed.,85
+1,Pro,P5,Excellent interest coverage.,90
+1,Con,C1,Low return on equity.,85
+1,Pro,P2,Strong return on capital employed.,85
+1,Con,C6,Low asset utilization.,75
+1,Pro,P3,Healthy net profit margin.,80
+1,Con,C1,Low return on equity.,85
+1,Con,C6,Low asset utilization.,75
+1,Pro,P3,Healthy net profit margin.,80
+1,Con,C1,Low return on equity.,85
+1,Con,C2,Low return on capital employed.,85
+1,Con,C6,Low asset utilization.,75
+2,Pro,P3,Healthy net profit margin.,80
+2,Con,C1,Low return on equity.,85
+2,Con,C6,Low asset utilization.,75
+2,Con,C1,Low return on equity.,85
+2,Con,C6,Low asset utilization.,75
+2,Pro,P2,Strong return on capital employed.,85
+2,Con,C6,Low asset utilization.,75
+2,Pro,P5,Excellent interest coverage.,90
+2,Con,C1,Low return on equity.,85
+2,Con,C6,Low asset utilization.,75
+2,Pro,P2,Strong return on capital employed.,85
+2,Pro,P3,Healthy net profit margin.,80
+2,Pro,P5,Excellent interest coverage.,90
+3,Pro,P6,Efficient asset utilization.,75
+3,Con,C1,Low return on equity.,85
+3,Con,C1,Low return on equity.,85
+3,Con,C2,Low return on capital employed.,85
+3,Con,C6,Low asset utilization.,75
+3,Con,C1,Low return on equity.,85
+3,Con,C6,Low asset utilization.,75
+3,Pro,P3,Healthy net profit margin.,80
+3,Con,C1,Low return on equity.,85
+3,Con,C6,Low asset utilization.,75
+3,Pro,P2,Strong return on capital employed.,85
+3,Pro,P3,Healthy net profit margin.,80
+3,Pro,P5,Excellent interest coverage.,90
+3,Con,C6,Low asset utilization.,75
+4,Pro,P3,Healthy net profit margin.,80
+4,Con,C1,Low return on equity.,85
+4,Con,C2,Low return on capital employed.,85
+4,Con,C6,Low asset utilization.,75
+4,Pro,P5,Excellent interest coverage.,90
+4,Con,C1,Low return on equity.,85
+4,Con,C6,Low asset utilization.,75
+4,Con,C6,Low asset utilization.,75
+4,Pro,P2,Strong return on capital employed.,85
+4,Pro,P5,Excellent interest coverage.,90
+4,Pro,P3,Healthy net profit margin.,80
+4,Con,C1,Low return on equity.,85
+4,Con,C2,Low return on capital employed.,85
+4,Con,C6,Low asset utilization.,75
+5,Pro,P3,Healthy net profit margin.,80
+5,Con,C1,Low return on equity.,85
+5,Con,C6,Low asset utilization.,75
+5,Pro,P5,Excellent interest coverage.,90
+5,Con,C1,Low return on equity.,85
+5,Con,C6,Low asset utilization.,75
+5,Con,C1,Low return on equity.,85
+5,Con,C6,Low asset utilization.,75
+5,Pro,P3,Healthy net profit margin.,80
+5,Con,C1,Low return on equity.,85
+5,Con,C2,Low return on capital employed.,85
+5,Con,C6,Low asset utilization.,75
+5,Pro,P1,High return on equity above 20%.,90
+5,Pro,P2,Strong return on capital employed.,85
+5,Pro,P3,Healthy net profit margin.,80
+5,Pro,P5,Excellent interest coverage.,90
+5,Pro,P6,Efficient asset utilization.,75
+6,Con,C1,Low return on equity.,85
+6,Con,C2,Low return on capital employed.,85
+6,Con,C6,Low asset utilization.,75
+6,Pro,P3,Healthy net profit margin.,80
+6,Con,C1,Low return on equity.,85
+6,Con,C2,Low return on capital employed.,85
+6,Con,C5,Poor interest coverage.,90
+6,Con,C6,Low asset utilization.,75
+6,Pro,P5,Excellent interest coverage.,90
+6,Con,C1,Low return on equity.,85
+6,Con,C2,Low return on capital employed.,85
+6,Con,C6,Low asset utilization.,75
+6,Pro,P5,Excellent interest coverage.,90
+6,Con,C1,Low return on equity.,85
+6,Con,C2,Low return on capital employed.,85
+6,Con,C6,Low asset utilization.,75
+6,Pro,P3,Healthy net profit margin.,80
+6,Con,C1,Low return on equity.,85
+6,Con,C2,Low return on capital employed.,85
+6,Con,C6,Low asset utilization.,75
+7,Pro,P3,Healthy net profit margin.,80
+7,Pro,P5,Excellent interest coverage.,90
+7,Con,C1,Low return on equity.,85
+7,Con,C2,Low return on capital employed.,85
+7,Con,C6,Low asset utilization.,75
+7,Pro,P1,High return on equity above 20%.,90
+7,Pro,P2,Strong return on capital employed.,85
+7,Pro,P3,Healthy net profit margin.,80
+7,Pro,P5,Excellent interest coverage.,90
+7,Pro,P6,Efficient asset utilization.,75
+7,Con,C1,Low return on equity.,85
+7,Con,C1,Low return on equity.,85
+7,Con,C6,Low asset utilization.,75
+7,Pro,P3,Healthy net profit margin.,80
+7,Con,C1,Low return on equity.,85
+7,Con,C6,Low asset utilization.,75
+8,Pro,P5,Excellent interest coverage.,90
+8,Con,C1,Low return on equity.,85
+8,Pro,P3,Healthy net profit margin.,80
+8,Pro,P5,Excellent interest coverage.,90
+8,Con,C1,Low return on equity.,85
+8,Con,C2,Low return on capital employed.,85
+8,Con,C6,Low asset utilization.,75
+8,Pro,P1,High return on equity above 20%.,90
+8,Pro,P2,Strong return on capital employed.,85
+8,Pro,P3,Healthy net profit margin.,80
+8,Pro,P5,Excellent interest coverage.,90
+8,Con,C6,Low asset utilization.,75
+8,Con,C1,Low return on equity.,85
+8,Con,C2,Low return on capital employed.,85
+8,Con,C6,Low asset utilization.,75
+8,Pro,P5,Excellent interest coverage.,90
+8,Con,C1,Low return on equity.,85
+8,Con,C2,Low return on capital employed.,85
+8,Con,C6,Low asset utilization.,75
+9,Pro,P2,Strong return on capital employed.,85
+9,Pro,P5,Excellent interest coverage.,90
+9,Con,C6,Low asset utilization.,75
+9,Pro,P3,Healthy net profit margin.,80
+9,Con,C1,Low return on equity.,85
+9,Con,C2,Low return on capital employed.,85
+9,Con,C6,Low asset utilization.,75
+9,Pro,P5,Excellent interest coverage.,90
+9,Con,C1,Low return on equity.,85
+9,Con,C1,Low return on equity.,85
+9,Con,C2,Low return on capital employed.,85
+9,Con,C6,Low asset utilization.,75
+9,Con,C1,Low return on equity.,85
+9,Con,C6,Low asset utilization.,75
+10,Con,C1,Low return on equity.,85
+10,Con,C2,Low return on capital employed.,85
+10,Con,C6,Low asset utilization.,75
+10,Pro,P5,Excellent interest coverage.,90
+10,Con,C1,Low return on equity.,85
+10,Con,C6,Low asset utilization.,75
+10,Pro,P2,Strong return on capital employed.,85
+10,Pro,P5,Excellent interest coverage.,90
+10,Con,C1,Low return on equity.,85
+10,Con,C6,Low asset utilization.,75
+10,Con,C1,Low return on equity.,85
+10,Con,C2,Low return on capital employed.,85
+10,Con,C6,Low asset utilization.,75
+10,Pro,P1,High return on equity above 20%.,90
+10,Pro,P2,Strong return on capital employed.,85
+10,Pro,P3,Healthy net profit margin.,80
+10,Pro,P5,Excellent interest coverage.,90
+11,Pro,P1,High return on equity above 20%.,90
+11,Pro,P2,Strong return on capital employed.,85
+11,Pro,P5,Excellent interest coverage.,90
+11,Con,C6,Low asset utilization.,75
+11,Pro,P1,High return on equity above 20%.,90
+11,Pro,P2,Strong return on capital employed.,85
+11,Pro,P3,Healthy net profit margin.,80
+11,Con,C6,Low asset utilization.,75
+11,Pro,P2,Strong return on capital employed.,85
+11,Pro,P5,Excellent interest coverage.,90
+11,Pro,P2,Strong return on capital employed.,85
+11,Pro,P4,Debt free company.,95
+11,Con,C1,Low return on equity.,85
+11,Con,C6,Low asset utilization.,75
+11,Pro,P2,Strong return on capital employed.,85
+11,Pro,P5,Excellent interest coverage.,90
+11,Con,C6,Low asset utilization.,75
+12,Pro,P5,Excellent interest coverage.,90
+12,Con,C1,Low return on equity.,85
+12,Con,C2,Low return on capital employed.,85
+12,Con,C6,Low asset utilization.,75
+12,Pro,P2,Strong return on capital employed.,85
+12,Pro,P5,Excellent interest coverage.,90
+12,Con,C1,Low return on equity.,85
+12,Con,C6,Low asset utilization.,75
+12,Pro,P2,Strong return on capital employed.,85
+12,Pro,P3,Healthy net profit margin.,80
+12,Pro,P5,Excellent interest coverage.,90
+12,Con,C6,Low asset utilization.,75
+12,Pro,P5,Excellent interest coverage.,90
+12,Con,C1,Low return on equity.,85
+12,Con,C6,Low asset utilization.,75
+13,Pro,P2,Strong return on capital employed.,85
+13,Con,C1,Low return on equity.,85
+13,Con,C6,Low asset utilization.,75
+13,Pro,P5,Excellent interest coverage.,90
+13,Con,C1,Low return on equity.,85
+13,Con,C2,Low return on capital employed.,85
+13,Con,C6,Low asset utilization.,75
+13,Pro,P2,Strong return on capital employed.,85
+13,Pro,P5,Excellent interest coverage.,90
+13,Con,C6,Low asset utilization.,75
+13,Con,C1,Low return on equity.,85
+13,Con,C6,Low asset utilization.,75
+13,Pro,P5,Excellent interest coverage.,90
+13,Con,C1,Low return on equity.,85
+13,Con,C6,Low asset utilization.,75
+14,Pro,P5,Excellent interest coverage.,90
+14,Con,C1,Low return on equity.,85
+14,Con,C2,Low return on capital employed.,85
+14,Con,C6,Low asset utilization.,75
+14,Con,C1,Low return on equity.,85
+14,Con,C6,Low asset utilization.,75
+14,Pro,P3,Healthy net profit margin.,80
+14,Con,C1,Low return on equity.,85
+14,Con,C2,Low return on capital employed.,85
+14,Con,C6,Low asset utilization.,75
+14,Con,C1,Low return on equity.,85
+14,Con,C2,Low return on capital employed.,85
+14,Con,C6,Low asset utilization.,75
+14,Pro,P2,Strong return on capital employed.,85
+14,Pro,P3,Healthy net profit margin.,80
+14,Pro,P5,Excellent interest coverage.,90
+14,Pro,P6,Efficient asset utilization.,75
+15,Pro,P2,Strong return on capital employed.,85
+15,Pro,P5,Excellent interest coverage.,90
+15,Con,C1,Low return on equity.,85
+15,Con,C2,Low return on capital employed.,85
+15,Con,C6,Low asset utilization.,75
+15,Pro,P2,Strong return on capital employed.,85
+15,Pro,P5,Excellent interest coverage.,90
+15,Con,C6,Low asset utilization.,75
+15,Pro,P2,Strong return on capital employed.,85
+15,Pro,P5,Excellent interest coverage.,90
+15,Con,C1,Low return on equity.,85
+15,Con,C6,Low asset utilization.,75
+15,Con,C1,Low return on equity.,85
+15,Con,C2,Low return on capital employed.,85
+15,Con,C6,Low asset utilization.,75
+16,Pro,P1,High return on equity above 20%.,90
+16,Pro,P2,Strong return on capital employed.,85
+16,Pro,P3,Healthy net profit margin.,80
+16,Pro,P5,Excellent interest coverage.,90
+16,Con,C6,Low asset utilization.,75
+16,Pro,P3,Healthy net profit margin.,80
+16,Pro,P5,Excellent interest coverage.,90
+16,Pro,P1,High return on equity above 20%.,90
+16,Pro,P2,Strong return on capital employed.,85
+16,Pro,P5,Excellent interest coverage.,90
+16,Con,C6,Low asset utilization.,75
+16,Pro,P1,High return on equity above 20%.,90
+16,Pro,P2,Strong return on capital employed.,85
+16,Pro,P3,Healthy net profit margin.,80
+16,Pro,P5,Excellent interest coverage.,90
+16,Con,C6,Low asset utilization.,75
+16,Pro,P5,Excellent interest coverage.,90
+16,Con,C1,Low return on equity.,85
+16,Con,C6,Low asset utilization.,75
+17,Con,C1,Low return on equity.,85
+17,Pro,P5,Excellent interest coverage.,90
+17,Pro,P3,Healthy net profit margin.,80
+17,Pro,P5,Excellent interest coverage.,90
+17,Con,C6,Low asset utilization.,75
+17,Pro,P2,Strong return on capital employed.,85
+17,Pro,P5,Excellent interest coverage.,90
+17,Con,C1,Low return on equity.,85
+17,Con,C6,Low asset utilization.,75
+17,Pro,P2,Strong return on capital employed.,85
+17,Pro,P3,Healthy net profit margin.,80
+17,Pro,P5,Excellent interest coverage.,90
+17,Con,C6,Low asset utilization.,75
+18,Pro,P2,Strong return on capital employed.,85
+18,Pro,P2,Strong return on capital employed.,85
+18,Con,C1,Low return on equity.,85
+18,Con,C6,Low asset utilization.,75
+18,Pro,P2,Strong return on capital employed.,85
+18,Pro,P5,Excellent interest coverage.,90
+18,Pro,P2,Strong return on capital employed.,85
+18,Pro,P5,Excellent interest coverage.,90
+18,Con,C6,Low asset utilization.,75
+18,Pro,P2,Strong return on capital employed.,85
+18,Con,C6,Low asset utilization.,75
+19,Pro,P2,Strong return on capital employed.,85
+19,Pro,P5,Excellent interest coverage.,90
+19,Pro,P3,Healthy net profit margin.,80
+19,Pro,P5,Excellent interest coverage.,90
+19,Con,C1,Low return on equity.,85
+19,Con,C6,Low asset utilization.,75
+19,Pro,P3,Healthy net profit margin.,80
+19,Con,C1,Low return on equity.,85
+19,Con,C6,Low asset utilization.,75
+19,Pro,P1,High return on equity above 20%.,90
+19,Pro,P2,Strong return on capital employed.,85
+19,Pro,P5,Excellent interest coverage.,90
+19,Con,C6,Low asset utilization.,75
+20,Pro,P2,Strong return on capital employed.,85
+20,Pro,P3,Healthy net profit margin.,80
+20,Pro,P5,Excellent interest coverage.,90
+20,Con,C1,Low return on equity.,85
+20,Con,C2,Low return on capital employed.,85
+20,Con,C6,Low asset utilization.,75
+20,Con,C1,Low return on equity.,85
+20,Con,C2,Low return on capital employed.,85
+20,Con,C6,Low asset utilization.,75
+20,Con,C1,Low return on equity.,85
+20,Con,C2,Low return on capital employed.,85
+20,Con,C6,Low asset utilization.,75
+20,Pro,P3,Healthy net profit margin.,80
+20,Con,C1,Low return on equity.,85
+20,Con,C2,Low return on capital employed.,85
+20,Con,C6,Low asset utilization.,75
+21,Pro,P5,Excellent interest coverage.,90
+21,Con,C1,Low return on equity.,85
+21,Con,C6,Low asset utilization.,75
+21,Pro,P2,Strong return on capital employed.,85
+21,Pro,P5,Excellent interest coverage.,90
+21,Con,C1,Low return on equity.,85
+21,Con,C6,Low asset utilization.,75
+21,Pro,P3,Healthy net profit margin.,80
+21,Con,C1,Low return on equity.,85
+21,Con,C2,Low return on capital employed.,85
+21,Con,C6,Low asset utilization.,75
+21,Con,C1,Low return on equity.,85
+21,Con,C6,Low asset utilization.,75
+21,Con,C1,Low return on equity.,85
+21,Con,C6,Low asset utilization.,75
+22,Pro,P3,Healthy net profit margin.,80
+22,Con,C1,Low return on equity.,85
+22,Con,C2,Low return on capital employed.,85
+22,Con,C6,Low asset utilization.,75
+22,Pro,P2,Strong return on capital employed.,85
+22,Pro,P5,Excellent interest coverage.,90
+22,Pro,P6,Efficient asset utilization.,75
+22,Pro,P2,Strong return on capital employed.,85
+22,Pro,P5,Excellent interest coverage.,90
+22,Con,C1,Low return on equity.,85
+22,Con,C6,Low asset utilization.,75
+22,Con,C1,Low return on equity.,85
+22,Con,C6,Low asset utilization.,75
+23,Con,C1,Low return on equity.,85
+23,Con,C2,Low return on capital employed.,85
+23,Con,C6,Low asset utilization.,75
+23,Pro,P3,Healthy net profit margin.,80
+23,Pro,P5,Excellent interest coverage.,90
+23,Con,C1,Low return on equity.,85
+23,Con,C6,Low asset utilization.,75
+23,Pro,P5,Excellent interest coverage.,90
+23,Con,C1,Low return on equity.,85
+23,Con,C2,Low return on capital employed.,85
+23,Con,C6,Low asset utilization.,75
+23,Pro,P5,Excellent interest coverage.,90
+23,Con,C1,Low return on equity.,85
+23,Con,C6,Low asset utilization.,75
+23,Pro,P5,Excellent interest coverage.,90
+23,Con,C1,Low return on equity.,85
+24,Pro,P3,Healthy net profit margin.,80
+24,Pro,P5,Excellent interest coverage.,90
+24,Con,C1,Low return on equity.,85
+24,Con,C6,Low asset utilization.,75
+24,Con,C1,Low return on equity.,85
+24,Pro,P2,Strong return on capital employed.,85
+24,Pro,P3,Healthy net profit margin.,80
+24,Pro,P5,Excellent interest coverage.,90
+24,Con,C6,Low asset utilization.,75
+24,Pro,P2,Strong return on capital employed.,85
+24,Pro,P5,Excellent interest coverage.,90
+24,Con,C6,Low asset utilization.,75
+24,Pro,P3,Healthy net profit margin.,80
+24,Pro,P5,Excellent interest coverage.,90
+24,Con,C6,Low asset utilization.,75
+25,Con,C1,Low return on equity.,85
+25,Con,C2,Low return on capital employed.,85
+25,Con,C6,Low asset utilization.,75
+25,Pro,P3,Healthy net profit margin.,80
+25,Pro,P5,Excellent interest coverage.,90
+25,Con,C1,Low return on equity.,85
+25,Pro,P2,Strong return on capital employed.,85
+25,Pro,P5,Excellent interest coverage.,90
+25,Pro,P6,Efficient asset utilization.,75
+25,Pro,P2,Strong return on capital employed.,85
+25,Pro,P5,Excellent interest coverage.,90
+25,Con,C1,Low return on equity.,85
+26,Pro,P1,High return on equity above 20%.,90
+26,Pro,P2,Strong return on capital employed.,85
+26,Pro,P3,Healthy net profit margin.,80
+26,Con,C6,Low asset utilization.,75
+26,Pro,P3,Healthy net profit margin.,80
+26,Con,C1,Low return on equity.,85
+26,Con,C6,Low asset utilization.,75
+26,Pro,P1,High return on equity above 20%.,90
+26,Pro,P2,Strong return on capital employed.,85
+26,Pro,P5,Excellent interest coverage.,90
+26,Pro,P6,Efficient asset utilization.,75
+26,Pro,P3,Healthy net profit margin.,80
+26,Con,C1,Low return on equity.,85
+26,Con,C2,Low return on capital employed.,85
+26,Con,C6,Low asset utilization.,75
+26,Con,C1,Low return on equity.,85
+26,Con,C6,Low asset utilization.,75
+27,Pro,P3,Healthy net profit margin.,80
+27,Con,C1,Low return on equity.,85
+27,Con,C6,Low asset utilization.,75
+27,Pro,P3,Healthy net profit margin.,80
+27,Con,C1,Low return on equity.,85
+27,Con,C2,Low return on capital employed.,85
+27,Con,C6,Low asset utilization.,75
+27,Pro,P2,Strong return on capital employed.,85
+27,Pro,P5,Excellent interest coverage.,90
+27,Con,C6,Low asset utilization.,75
+27,Pro,P3,Healthy net profit margin.,80
+27,Con,C6,Low asset utilization.,75
+27,Pro,P5,Excellent interest coverage.,90
+27,Con,C1,Low return on equity.,85
+27,Con,C2,Low return on capital employed.,85
+27,Con,C6,Low asset utilization.,75
+28,Pro,P2,Strong return on capital employed.,85
+28,Pro,P5,Excellent interest coverage.,90
+28,Con,C6,Low asset utilization.,75
+28,Pro,P3,Healthy net profit margin.,80
+28,Pro,P5,Excellent interest coverage.,90
+28,Con,C6,Low asset utilization.,75
+28,Pro,P5,Excellent interest coverage.,90
+28,Con,C1,Low return on equity.,85
+28,Con,C6,Low asset utilization.,75
+28,Pro,P1,High return on equity above 20%.,90
+28,Pro,P2,Strong return on capital employed.,85
+28,Pro,P5,Excellent interest coverage.,90
+28,Pro,P2,Strong return on capital employed.,85
+28,Pro,P5,Excellent interest coverage.,90
+28,Con,C6,Low asset utilization.,75
+29,Pro,P4,Debt free company.,95
+29,Pro,P5,Excellent interest coverage.,90
+29,Con,C1,Low return on equity.,85
+29,Con,C2,Low return on capital employed.,85
+29,Con,C6,Low asset utilization.,75
+29,Pro,P3,Healthy net profit margin.,80
+29,Pro,P5,Excellent interest coverage.,90
+29,Con,C1,Low return on equity.,85
+29,Con,C2,Low return on capital employed.,85
+29,Con,C6,Low asset utilization.,75
+29,Pro,P3,Healthy net profit margin.,80
+29,Con,C1,Low return on equity.,85
+29,Con,C6,Low asset utilization.,75
+29,Pro,P2,Strong return on capital employed.,85
+29,Pro,P3,Healthy net profit margin.,80
+29,Pro,P5,Excellent interest coverage.,90
+29,Pro,P3,Healthy net profit margin.,80
+29,Pro,P5,Excellent interest coverage.,90
+29,Con,C1,Low return on equity.,85
+29,Con,C2,Low return on capital employed.,85
+29,Con,C6,Low asset utilization.,75
+30,Pro,P3,Healthy net profit margin.,80
+30,Con,C6,Low asset utilization.,75
+30,Pro,P1,High return on equity above 20%.,90
+30,Pro,P2,Strong return on capital employed.,85
+30,Pro,P3,Healthy net profit margin.,80
+30,Pro,P5,Excellent interest coverage.,90
+30,Pro,P6,Efficient asset utilization.,75
+30,Pro,P1,High return on equity above 20%.,90
+30,Pro,P2,Strong return on capital employed.,85
+30,Pro,P3,Healthy net profit margin.,80
+30,Pro,P5,Excellent interest coverage.,90
+30,Pro,P3,Healthy net profit margin.,80
+30,Con,C1,Low return on equity.,85
+30,Con,C6,Low asset utilization.,75
+30,Pro,P3,Healthy net profit margin.,80
+30,Pro,P5,Excellent interest coverage.,90
+30,Con,C6,Low asset utilization.,75
+31,Con,C1,Low return on equity.,85
+31,Con,C6,Low asset utilization.,75
+31,Pro,P5,Excellent interest coverage.,90
+31,Con,C1,Low return on equity.,85
+31,Con,C6,Low asset utilization.,75
+31,Pro,P2,Strong return on capital employed.,85
+31,Pro,P3,Healthy net profit margin.,80
+31,Pro,P5,Excellent interest coverage.,90
+31,Con,C1,Low return on equity.,85
+31,Con,C6,Low asset utilization.,75
+31,Pro,P2,Strong return on capital employed.,85
+31,Con,C1,Low return on equity.,85
+31,Con,C6,Low asset utilization.,75
+31,Pro,P2,Strong return on capital employed.,85
+31,Con,C1,Low return on equity.,85
+32,Con,C1,Low return on equity.,85
+32,Con,C2,Low return on capital employed.,85
+32,Con,C6,Low asset utilization.,75
+32,Con,C6,Low asset utilization.,75
+32,Pro,P3,Healthy net profit margin.,80
+32,Pro,P5,Excellent interest coverage.,90
+32,Con,C1,Low return on equity.,85
+32,Con,C6,Low asset utilization.,75
+32,Pro,P5,Excellent interest coverage.,90
+32,Con,C1,Low return on equity.,85
+32,Con,C1,Low return on equity.,85
+32,Con,C6,Low asset utilization.,75
+33,Con,C1,Low return on equity.,85
+33,Con,C2,Low return on capital employed.,85
+33,Con,C6,Low asset utilization.,75
+33,Pro,P2,Strong return on capital employed.,85
+33,Con,C6,Low asset utilization.,75
+33,Pro,P1,High return on equity above 20%.,90
+33,Pro,P2,Strong return on capital employed.,85
+33,Pro,P3,Healthy net profit margin.,80
+33,Pro,P5,Excellent interest coverage.,90
+33,Con,C6,Low asset utilization.,75
+33,Pro,P2,Strong return on capital employed.,85
+33,Pro,P3,Healthy net profit margin.,80
+33,Con,C6,Low asset utilization.,75
+33,Pro,P2,Strong return on capital employed.,85
+33,Pro,P5,Excellent interest coverage.,90
+33,Con,C6,Low asset utilization.,75
+34,Pro,P3,Healthy net profit margin.,80
+34,Pro,P5,Excellent interest coverage.,90
+34,Con,C1,Low return on equity.,85
+34,Con,C6,Low asset utilization.,75
+34,Con,C1,Low return on equity.,85
+34,Con,C2,Low return on capital employed.,85
+34,Con,C6,Low asset utilization.,75
+34,Pro,P3,Healthy net profit margin.,80
+34,Pro,P5,Excellent interest coverage.,90
+34,Con,C1,Low return on equity.,85
+34,Con,C6,Low asset utilization.,75
+34,Pro,P2,Strong return on capital employed.,85
+34,Pro,P5,Excellent interest coverage.,90
+34,Con,C1,Low return on equity.,85
+34,Con,C2,Low return on capital employed.,85
+34,Con,C6,Low asset utilization.,75
+35,Pro,P2,Strong return on capital employed.,85
+35,Pro,P5,Excellent interest coverage.,90
+35,Pro,P2,Strong return on capital employed.,85
+35,Pro,P5,Excellent interest coverage.,90
+35,Pro,P3,Healthy net profit margin.,80
+35,Con,C1,Low return on equity.,85
+35,Con,C2,Low return on capital employed.,85
+35,Con,C6,Low asset utilization.,75
+35,Pro,P2,Strong return on capital employed.,85
+35,Pro,P3,Healthy net profit margin.,80
+35,Pro,P5,Excellent interest coverage.,90
+35,Pro,P3,Healthy net profit margin.,80
+35,Con,C1,Low return on equity.,85
+35,Con,C2,Low return on capital employed.,85
+35,Con,C6,Low asset utilization.,75
+36,Pro,P3,Healthy net profit margin.,80
+36,Con,C6,Low asset utilization.,75
+36,Pro,P2,Strong return on capital employed.,85
+36,Pro,P5,Excellent interest coverage.,90
+36,Con,C6,Low asset utilization.,75
+36,Pro,P3,Healthy net profit margin.,80
+36,Con,C1,Low return on equity.,85
+36,Con,C6,Low asset utilization.,75
+36,Pro,P3,Healthy net profit margin.,80
+36,Con,C6,Low asset utilization.,75
+36,Pro,P2,Strong return on capital employed.,85
+36,Pro,P3,Healthy net profit margin.,80
+36,Pro,P5,Excellent interest coverage.,90
+37,Pro,P3,Healthy net profit margin.,80
+37,Pro,P5,Excellent interest coverage.,90
+37,Con,C1,Low return on equity.,85
+37,Con,C2,Low return on capital employed.,85
+37,Con,C6,Low asset utilization.,75
+37,Con,C1,Low return on equity.,85
+37,Con,C2,Low return on capital employed.,85
+37,Con,C6,Low asset utilization.,75
+37,Pro,P3,Healthy net profit margin.,80
+37,Con,C1,Low return on equity.,85
+37,Con,C6,Low asset utilization.,75
+37,Pro,P2,Strong return on capital employed.,85
+37,Pro,P3,Healthy net profit margin.,80
+37,Pro,P4,Debt free company.,95
+37,Pro,P5,Excellent interest coverage.,90
+37,Pro,P6,Efficient asset utilization.,75
+37,Pro,P3,Healthy net profit margin.,80
+37,Con,C1,Low return on equity.,85
+37,Con,C2,Low return on capital employed.,85
+38,Pro,P2,Strong return on capital employed.,85
+38,Con,C6,Low asset utilization.,75
+38,Pro,P1,High return on equity above 20%.,90
+38,Pro,P2,Strong return on capital employed.,85
+38,Pro,P5,Excellent interest coverage.,90
+38,Con,C6,Low asset utilization.,75
+38,Pro,P2,Strong return on capital employed.,85
+38,Pro,P3,Healthy net profit margin.,80
+38,Pro,P5,Excellent interest coverage.,90
+38,Con,C6,Low asset utilization.,75
+38,Con,C1,Low return on equity.,85
+38,Pro,P2,Strong return on capital employed.,85
+38,Pro,P5,Excellent interest coverage.,90
+38,Con,C1,Low return on equity.,85
+38,Con,C6,Low asset utilization.,75
+39,Pro,P3,Healthy net profit margin.,80
+39,Pro,P2,Strong return on capital employed.,85
+39,Pro,P5,Excellent interest coverage.,90
+39,Pro,P6,Efficient asset utilization.,75
+39,Con,C1,Low return on equity.,85
+39,Con,C6,Low asset utilization.,75
+39,Pro,P2,Strong return on capital employed.,85
+39,Pro,P3,Healthy net profit margin.,80
+39,Pro,P5,Excellent interest coverage.,90
+39,Pro,P6,Efficient asset utilization.,75
+39,Pro,P2,Strong return on capital employed.,85
+39,Pro,P5,Excellent interest coverage.,90
+40,Pro,P2,Strong return on capital employed.,85
+40,Pro,P5,Excellent interest coverage.,90
+40,Con,C1,Low return on equity.,85
+40,Con,C6,Low asset utilization.,75
+40,Pro,P5,Excellent interest coverage.,90
+40,Con,C1,Low return on equity.,85
+40,Con,C2,Low return on capital employed.,85
+40,Con,C6,Low asset utilization.,75
+40,Pro,P2,Strong return on capital employed.,85
+40,Pro,P5,Excellent interest coverage.,90
+40,Con,C6,Low asset utilization.,75
+40,Pro,P3,Healthy net profit margin.,80
+40,Pro,P3,Healthy net profit margin.,80
+40,Pro,P5,Excellent interest coverage.,90
+40,Con,C6,Low asset utilization.,75
+41,Con,C1,Low return on equity.,85
+41,Con,C6,Low asset utilization.,75
+41,Pro,P2,Strong return on capital employed.,85
+41,Pro,P5,Excellent interest coverage.,90
+41,Con,C6,Low asset utilization.,75
+41,Pro,P1,High return on equity above 20%.,90
+41,Pro,P2,Strong return on capital employed.,85
+41,Pro,P3,Healthy net profit margin.,80
+41,Pro,P5,Excellent interest coverage.,90
+41,Con,C6,Low asset utilization.,75
+41,Pro,P3,Healthy net profit margin.,80
+41,Pro,P5,Excellent interest coverage.,90
+41,Con,C1,Low return on equity.,85
+41,Con,C2,Low return on capital employed.,85
+41,Con,C6,Low asset utilization.,75
+41,Pro,P1,High return on equity above 20%.,90
+41,Pro,P2,Strong return on capital employed.,85
+41,Pro,P5,Excellent interest coverage.,90
+42,Pro,P5,Excellent interest coverage.,90
+42,Con,C1,Low return on equity.,85
+42,Con,C6,Low asset utilization.,75
+42,Pro,P2,Strong return on capital employed.,85
+42,Pro,P4,Debt free company.,95
+42,Pro,P5,Excellent interest coverage.,90
+42,Con,C1,Low return on equity.,85
+42,Con,C6,Low asset utilization.,75
+42,Pro,P2,Strong return on capital employed.,85
+42,Pro,P5,Excellent interest coverage.,90
+42,Con,C1,Low return on equity.,85
+42,Con,C6,Low asset utilization.,75
+42,Con,C1,Low return on equity.,85
+42,Con,C6,Low asset utilization.,75
+42,Pro,P2,Strong return on capital employed.,85
+42,Pro,P3,Healthy net profit margin.,80
+42,Pro,P5,Excellent interest coverage.,90
+42,Con,C6,Low asset utilization.,75
+43,Pro,P3,Healthy net profit margin.,80
+43,Pro,P5,Excellent interest coverage.,90
+43,Con,C1,Low return on equity.,85
+43,Con,C6,Low asset utilization.,75
+43,Con,C1,Low return on equity.,85
+43,Con,C6,Low asset utilization.,75
+43,Pro,P3,Healthy net profit margin.,80
+43,Con,C1,Low return on equity.,85
+43,Con,C6,Low asset utilization.,75
+43,Pro,P2,Strong return on capital employed.,85
+43,Pro,P3,Healthy net profit margin.,80
+43,Pro,P5,Excellent interest coverage.,90
+43,Pro,P5,Excellent interest coverage.,90
+43,Con,C6,Low asset utilization.,75
+44,Con,C6,Low asset utilization.,75
+44,Pro,P1,High return on equity above 20%.,90
+44,Pro,P2,Strong return on capital employed.,85
+44,Pro,P5,Excellent interest coverage.,90
+44,Con,C6,Low asset utilization.,75
+44,Pro,P1,High return on equity above 20%.,90
+44,Pro,P2,Strong return on capital employed.,85
+44,Pro,P5,Excellent interest coverage.,90
+44,Con,C6,Low asset utilization.,75
+44,Pro,P3,Healthy net profit margin.,80
+44,Con,C6,Low asset utilization.,75
+44,Con,C1,Low return on equity.,85
+45,Pro,P2,Strong return on capital employed.,85
+45,Pro,P5,Excellent interest coverage.,90
+45,Con,C6,Low asset utilization.,75
+45,Pro,P5,Excellent interest coverage.,90
+45,Con,C1,Low return on equity.,85
+45,Con,C6,Low asset utilization.,75
+45,Con,C1,Low return on equity.,85
+45,Con,C2,Low return on capital employed.,85
+45,Pro,P5,Excellent interest coverage.,90
+45,Con,C1,Low return on equity.,85
+45,Con,C6,Low asset utilization.,75
+46,Pro,P2,Strong return on capital employed.,85
+46,Pro,P5,Excellent interest coverage.,90
+46,Con,C1,Low return on equity.,85
+46,Con,C6,Low asset utilization.,75
+46,Pro,P2,Strong return on capital employed.,85
+46,Pro,P4,Debt free company.,95
+46,Con,C1,Low return on equity.,85
+46,Con,C6,Low asset utilization.,75
+46,Con,C1,Low return on equity.,85
+46,Con,C6,Low asset utilization.,75
+46,Pro,P1,High return on equity above 20%.,90
+46,Pro,P2,Strong return on capital employed.,85
+46,Pro,P3,Healthy net profit margin.,80
+46,Pro,P5,Excellent interest coverage.,90
+46,Pro,P3,Healthy net profit margin.,80
+46,Con,C1,Low return on equity.,85
+46,Con,C2,Low return on capital employed.,85
+46,Con,C5,Poor interest coverage.,90
+46,Con,C6,Low asset utilization.,75
+47,Pro,P1,High return on equity above 20%.,90
+47,Pro,P2,Strong return on capital employed.,85
+47,Con,C6,Low asset utilization.,75
+47,Pro,P2,Strong return on capital employed.,85
+47,Pro,P3,Healthy net profit margin.,80
+47,Pro,P2,Strong return on capital employed.,85
+47,Pro,P5,Excellent interest coverage.,90
+47,Pro,P6,Efficient asset utilization.,75
+47,Pro,P5,Excellent interest coverage.,90
+47,Con,C1,Low return on equity.,85
+47,Con,C6,Low asset utilization.,75
+47,Pro,P2,Strong return on capital employed.,85
+47,Pro,P5,Excellent interest coverage.,90
+48,Pro,P3,Healthy net profit margin.,80
+48,Con,C1,Low return on equity.,85
+48,Con,C6,Low asset utilization.,75
+48,Pro,P2,Strong return on capital employed.,85
+48,Pro,P3,Healthy net profit margin.,80
+48,Con,C1,Low return on equity.,85
+48,Con,C6,Low asset utilization.,75
+48,Pro,P5,Excellent interest coverage.,90
+48,Pro,P3,Healthy net profit margin.,80
+48,Con,C1,Low return on equity.,85
+48,Con,C6,Low asset utilization.,75
+48,Pro,P3,Healthy net profit margin.,80
+48,Con,C6,Low asset utilization.,75
+49,Pro,P3,Healthy net profit margin.,80
+49,Con,C6,Low asset utilization.,75
+49,Pro,P5,Excellent interest coverage.,90
+49,Con,C1,Low return on equity.,85
+49,Con,C2,Low return on capital employed.,85
+49,Con,C6,Low asset utilization.,75
+49,Pro,P5,Excellent interest coverage.,90
+49,Pro,P6,Efficient asset utilization.,75
+49,Con,C1,Low return on equity.,85
+49,Pro,P5,Excellent interest coverage.,90
+49,Con,C1,Low return on equity.,85
+49,Con,C6,Low asset utilization.,75
+49,Con,C1,Low return on equity.,85
+49,Con,C2,Low return on capital employed.,85
+49,Con,C6,Low asset utilization.,75
+50,Pro,P2,Strong return on capital employed.,85
+50,Pro,P5,Excellent interest coverage.,90
+50,Con,C1,Low return on equity.,85
+50,Pro,P3,Healthy net profit margin.,80
+50,Pro,P5,Excellent interest coverage.,90
+50,Con,C1,Low return on equity.,85
+50,Con,C6,Low asset utilization.,75
+50,Pro,P5,Excellent interest coverage.,90
+50,Con,C6,Low asset utilization.,75
+50,Pro,P1,High return on equity above 20%.,90
+50,Pro,P2,Strong return on capital employed.,85
+50,Pro,P3,Healthy net profit margin.,80
+50,Con,C6,Low asset utilization.,75
+50,Pro,P3,Healthy net profit margin.,80
+50,Con,C6,Low asset utilization.,75
+51,Pro,P2,Strong return on capital employed.,85
+51,Con,C1,Low return on equity.,85
+51,Con,C6,Low asset utilization.,75
+51,Pro,P3,Healthy net profit margin.,80
+51,Con,C1,Low return on equity.,85
+51,Con,C2,Low return on capital employed.,85
+51,Con,C6,Low asset utilization.,75
+51,Pro,P1,High return on equity above 20%.,90
+51,Pro,P2,Strong return on capital employed.,85
+51,Pro,P5,Excellent interest coverage.,90
+51,Con,C6,Low asset utilization.,75
+51,Pro,P2,Strong return on capital employed.,85
+51,Pro,P5,Excellent interest coverage.,90
+51,Con,C6,Low asset utilization.,75
+51,Pro,P2,Strong return on capital employed.,85
+51,Pro,P3,Healthy net profit margin.,80
+51,Con,C6,Low asset utilization.,75
+52,Pro,P2,Strong return on capital employed.,85
+52,Pro,P3,Healthy net profit margin.,80
+52,Pro,P5,Excellent interest coverage.,90
+52,Pro,P2,Strong return on capital employed.,85
+52,Pro,P4,Debt free company.,95
+52,Con,C1,Low return on equity.,85
+52,Con,C6,Low asset utilization.,75
+52,Con,C1,Low return on equity.,85
+52,Con,C6,Low asset utilization.,75
+52,Con,C1,Low return on equity.,85
+52,Con,C6,Low asset utilization.,75
+52,Con,C1,Low return on equity.,85
+52,Con,C6,Low asset utilization.,75
+53,Pro,P2,Strong return on capital employed.,85
+53,Pro,P5,Excellent interest coverage.,90
+53,Con,C6,Low asset utilization.,75
+53,Pro,P3,Healthy net profit margin.,80
+53,Pro,P5,Excellent interest coverage.,90
+53,Con,C2,Low return on capital employed.,85
+53,Con,C6,Low asset utilization.,75
+53,Pro,P3,Healthy net profit margin.,80
+53,Con,C1,Low return on equity.,85
+53,Con,C2,Low return on capital employed.,85
+53,Con,C6,Low asset utilization.,75
+53,Pro,P2,Strong return on capital employed.,85
+53,Pro,P3,Healthy net profit margin.,80
+53,Pro,P5,Excellent interest coverage.,90
+53,Con,C6,Low asset utilization.,75
+53,Pro,P5,Excellent interest coverage.,90
+53,Con,C1,Low return on equity.,85
+53,Con,C6,Low asset utilization.,75
+54,Pro,P2,Strong return on capital employed.,85
+54,Pro,P3,Healthy net profit margin.,80
+54,Pro,P5,Excellent interest coverage.,90
+54,Con,C1,Low return on equity.,85
+54,Con,C6,Low asset utilization.,75
+54,Pro,P2,Strong return on capital employed.,85
+54,Pro,P5,Excellent interest coverage.,90
+54,Pro,P6,Efficient asset utilization.,75
+54,Con,C1,Low return on equity.,85
+54,Con,C2,Low return on capital employed.,85
+54,Con,C6,Low asset utilization.,75
+54,Pro,P2,Strong return on capital employed.,85
+54,Pro,P5,Excellent interest coverage.,90
+54,Pro,P2,Strong return on capital employed.,85
+54,Pro,P5,Excellent interest coverage.,90
+54,Con,C1,Low return on equity.,85
+54,Con,C6,Low asset utilization.,75
+55,Pro,P3,Healthy net profit margin.,80
+55,Pro,P5,Excellent interest coverage.,90
+55,Con,C1,Low return on equity.,85
+55,Con,C2,Low return on capital employed.,85
+55,Con,C6,Low asset utilization.,75
+55,Pro,P2,Strong return on capital employed.,85
+55,Pro,P5,Excellent interest coverage.,90
+55,Con,C6,Low asset utilization.,75
+55,Pro,P2,Strong return on capital employed.,85
+55,Con,C1,Low return on equity.,85
+55,Con,C6,Low asset utilization.,75
+55,Pro,P1,High return on equity above 20%.,90
+55,Pro,P2,Strong return on capital employed.,85
+55,Pro,P3,Healthy net profit margin.,80
+55,Pro,P5,Excellent interest coverage.,90
+55,Con,C6,Low asset utilization.,75
+55,Pro,P5,Excellent interest coverage.,90
+55,Con,C1,Low return on equity.,85
+55,Con,C2,Low return on capital employed.,85
+55,Con,C6,Low asset utilization.,75
+56,Pro,P3,Healthy net profit margin.,80
+56,Con,C1,Low return on equity.,85
+56,Con,C2,Low return on capital employed.,85
+56,Con,C5,Poor interest coverage.,90
+56,Con,C6,Low asset utilization.,75
+56,Pro,P1,High return on equity above 20%.,90
+56,Pro,P2,Strong return on capital employed.,85
+56,Pro,P3,Healthy net profit margin.,80
+56,Pro,P6,Efficient asset utilization.,75
+56,Pro,P1,High return on equity above 20%.,90
+56,Pro,P2,Strong return on capital employed.,85
+56,Pro,P3,Healthy net profit margin.,80
+56,Pro,P5,Excellent interest coverage.,90
+56,Pro,P6,Efficient asset utilization.,75
+56,Pro,P1,High return on equity above 20%.,90
+56,Pro,P2,Strong return on capital employed.,85
+56,Pro,P5,Excellent interest coverage.,90
+56,Pro,P1,High return on equity above 20%.,90
+56,Pro,P2,Strong return on capital employed.,85
+56,Pro,P3,Healthy net profit margin.,80
+56,Pro,P5,Excellent interest coverage.,90
+56,Con,C6,Low asset utilization.,75
+57,Pro,P2,Strong return on capital employed.,85
+57,Pro,P5,Excellent interest coverage.,90
+57,Con,C1,Low return on equity.,85
+57,Pro,P5,Excellent interest coverage.,90
+57,Con,C1,Low return on equity.,85
+57,Con,C2,Low return on capital employed.,85
+57,Con,C6,Low asset utilization.,75
+57,Pro,P2,Strong return on capital employed.,85
+57,Pro,P5,Excellent interest coverage.,90
+57,Pro,P6,Efficient asset utilization.,75
+57,Pro,P1,High return on equity above 20%.,90
+57,Pro,P2,Strong return on capital employed.,85
+57,Con,C6,Low asset utilization.,75
+57,Pro,P1,High return on equity above 20%.,90
+57,Pro,P2,Strong return on capital employed.,85
+57,Pro,P3,Healthy net profit margin.,80
+57,Pro,P5,Excellent interest coverage.,90
+58,Pro,P3,Healthy net profit margin.,80
+58,Pro,P3,Healthy net profit margin.,80
+58,Pro,P5,Excellent interest coverage.,90
+58,Con,C1,Low return on equity.,85
+58,Con,C6,Low asset utilization.,75
+58,Pro,P3,Healthy net profit margin.,80
+58,Con,C1,Low return on equity.,85
+58,Con,C2,Low return on capital employed.,85
+58,Con,C6,Low asset utilization.,75
+58,Pro,P2,Strong return on capital employed.,85
+58,Pro,P3,Healthy net profit margin.,80
+58,Pro,P5,Excellent interest coverage.,90
+58,Con,C1,Low return on equity.,85
+58,Con,C6,Low asset utilization.,75
+59,Pro,P2,Strong return on capital employed.,85
+59,Pro,P3,Healthy net profit margin.,80
+59,Con,C6,Low asset utilization.,75
+59,Con,C1,Low return on equity.,85
+59,Con,C6,Low asset utilization.,75
+59,Pro,P2,Strong return on capital employed.,85
+59,Pro,P5,Excellent interest coverage.,90
+59,Con,C1,Low return on equity.,85
+59,Con,C6,Low asset utilization.,75
+59,Pro,P3,Healthy net profit margin.,80
+59,Pro,P5,Excellent interest coverage.,90
+59,Con,C1,Low return on equity.,85
+59,Con,C2,Low return on capital employed.,85
+59,Con,C6,Low asset utilization.,75
+59,Con,C1,Low return on equity.,85
+59,Con,C6,Low asset utilization.,75
+60,Pro,P3,Healthy net profit margin.,80
+60,Con,C1,Low return on equity.,85
+60,Con,C2,Low return on capital employed.,85
+60,Con,C6,Low asset utilization.,75
+60,Con,C1,Low return on equity.,85
+60,Con,C2,Low return on capital employed.,85
+60,Con,C6,Low asset utilization.,75
+60,Con,C1,Low return on equity.,85
+60,Con,C2,Low return on capital employed.,85
+60,Con,C5,Poor interest coverage.,90
+60,Con,C6,Low asset utilization.,75
+60,Pro,P5,Excellent interest coverage.,90
+60,Con,C1,Low return on equity.,85
+60,Con,C2,Low return on capital employed.,85
+60,Con,C6,Low asset utilization.,75
+60,Pro,P3,Healthy net profit margin.,80
+60,Pro,P5,Excellent interest coverage.,90
+60,Con,C6,Low asset utilization.,75
+61,Pro,P2,Strong return on capital employed.,85
+61,Pro,P5,Excellent interest coverage.,90
+61,Con,C6,Low asset utilization.,75
+61,Pro,P3,Healthy net profit margin.,80
+61,Pro,P5,Excellent interest coverage.,90
+61,Con,C1,Low return on equity.,85
+61,Con,C6,Low asset utilization.,75
+61,Pro,P3,Healthy net profit margin.,80
+61,Pro,P5,Excellent interest coverage.,90
+61,Con,C1,Low return on equity.,85
+61,Con,C2,Low return on capital employed.,85
+61,Con,C6,Low asset utilization.,75
+61,Pro,P5,Excellent interest coverage.,90
+61,Con,C1,Low return on equity.,85
+61,Con,C6,Low asset utilization.,75
+61,Pro,P2,Strong return on capital employed.,85
+61,Pro,P5,Excellent interest coverage.,90
+61,Con,C6,Low asset utilization.,75
+62,Pro,P2,Strong return on capital employed.,85
+62,Con,C6,Low asset utilization.,75
+62,Con,C1,Low return on equity.,85
+62,Con,C6,Low asset utilization.,75
+62,Pro,P1,High return on equity above 20%.,90
+62,Pro,P2,Strong return on capital employed.,85
+62,Pro,P3,Healthy net profit margin.,80
+62,Pro,P5,Excellent interest coverage.,90
+62,Con,C6,Low asset utilization.,75
+62,Con,C1,Low return on equity.,85
+62,Con,C6,Low asset utilization.,75
+62,Con,C1,Low return on equity.,85
+62,Con,C2,Low return on capital employed.,85
+62,Con,C6,Low asset utilization.,75
+63,Pro,P3,Healthy net profit margin.,80
+63,Con,C1,Low return on equity.,85
+63,Con,C2,Low return on capital employed.,85
+63,Con,C6,Low asset utilization.,75
+63,Pro,P5,Excellent interest coverage.,90
+63,Con,C6,Low asset utilization.,75
+63,Con,C1,Low return on equity.,85
+63,Con,C2,Low return on capital employed.,85
+63,Con,C6,Low asset utilization.,75
+63,Pro,P3,Healthy net profit margin.,80
+63,Con,C6,Low asset utilization.,75
+63,Con,C1,Low return on equity.,85
+63,Con,C6,Low asset utilization.,75
+64,Pro,P2,Strong return on capital employed.,85
+64,Pro,P3,Healthy net profit margin.,80
+64,Pro,P5,Excellent interest coverage.,90
+64,Con,C6,Low asset utilization.,75
+64,Pro,P5,Excellent interest coverage.,90
+64,Con,C1,Low return on equity.,85
+64,Con,C6,Low asset utilization.,75
+64,Con,C1,Low return on equity.,85
+64,Con,C6,Low asset utilization.,75
+64,Pro,P2,Strong return on capital employed.,85
+64,Pro,P3,Healthy net profit margin.,80
+64,Con,C1,Low return on equity.,85
+64,Con,C2,Low return on capital employed.,85
+64,Con,C6,Low asset utilization.,75
+65,Pro,P5,Excellent interest coverage.,90
+65,Con,C1,Low return on equity.,85
+65,Pro,P3,Healthy net profit margin.,80
+65,Pro,P5,Excellent interest coverage.,90
+65,Con,C6,Low asset utilization.,75
+65,Pro,P3,Healthy net profit margin.,80
+65,Con,C1,Low return on equity.,85
+65,Con,C6,Low asset utilization.,75
+65,Pro,P2,Strong return on capital employed.,85
+65,Con,C1,Low return on equity.,85
+65,Con,C2,Low return on capital employed.,85
+65,Con,C6,Low asset utilization.,75
+66,Con,C1,Low return on equity.,85
+66,Con,C2,Low return on capital employed.,85
+66,Con,C5,Poor interest coverage.,90
+66,Con,C6,Low asset utilization.,75
+66,Pro,P3,Healthy net profit margin.,80
+66,Pro,P5,Excellent interest coverage.,90
+66,Con,C6,Low asset utilization.,75
+66,Pro,P3,Healthy net profit margin.,80
+66,Con,C1,Low return on equity.,85
+66,Con,C2,Low return on capital employed.,85
+66,Con,C6,Low asset utilization.,75
+66,Pro,P2,Strong return on capital employed.,85
+66,Pro,P3,Healthy net profit margin.,80
+66,Con,C6,Low asset utilization.,75
+66,Pro,P2,Strong return on capital employed.,85
+66,Pro,P5,Excellent interest coverage.,90
+66,Con,C6,Low asset utilization.,75
+67,Pro,P2,Strong return on capital employed.,85
+67,Pro,P5,Excellent interest coverage.,90
+67,Con,C6,Low asset utilization.,75
+67,Con,C1,Low return on equity.,85
+67,Con,C6,Low asset utilization.,75
+67,Pro,P2,Strong return on capital employed.,85
+67,Con,C1,Low return on equity.,85
+67,Con,C6,Low asset utilization.,75
+67,Pro,P2,Strong return on capital employed.,85
+67,Pro,P5,Excellent interest coverage.,90
+67,Con,C1,Low return on equity.,85
+67,Con,C6,Low asset utilization.,75
+67,Pro,P2,Strong return on capital employed.,85
+67,Pro,P3,Healthy net profit margin.,80
+67,Pro,P5,Excellent interest coverage.,90
+67,Con,C6,Low asset utilization.,75
+68,Con,C1,Low return on equity.,85
+68,Con,C2,Low return on capital employed.,85
+68,Con,C6,Low asset utilization.,75
+68,Pro,P2,Strong return on capital employed.,85
+68,Pro,P3,Healthy net profit margin.,80
+68,Pro,P5,Excellent interest coverage.,90
+68,Con,C1,Low return on equity.,85
+68,Con,C6,Low asset utilization.,75
+68,Pro,P1,High return on equity above 20%.,90
+68,Pro,P2,Strong return on capital employed.,85
+68,Pro,P5,Excellent interest coverage.,90
+68,Con,C6,Low asset utilization.,75
+68,Con,C1,Low return on equity.,85
+68,Con,C6,Low asset utilization.,75
+69,Pro,P2,Strong return on capital employed.,85
+69,Pro,P3,Healthy net profit margin.,80
+69,Pro,P5,Excellent interest coverage.,90
+69,Con,C6,Low asset utilization.,75
+69,Pro,P3,Healthy net profit margin.,80
+69,Con,C1,Low return on equity.,85
+69,Con,C6,Low asset utilization.,75
+69,Pro,P2,Strong return on capital employed.,85
+69,Pro,P5,Excellent interest coverage.,90
+69,Con,C1,Low return on equity.,85
+69,Pro,P3,Healthy net profit margin.,80
+69,Con,C1,Low return on equity.,85
+69,Con,C2,Low return on capital employed.,85
+69,Con,C6,Low asset utilization.,75
+69,Con,C1,Low return on equity.,85
+69,Con,C6,Low asset utilization.,75
+70,Pro,P2,Strong return on capital employed.,85
+70,Pro,P5,Excellent interest coverage.,90
+70,Con,C6,Low asset utilization.,75
+70,Pro,P2,Strong return on capital employed.,85
+70,Pro,P5,Excellent interest coverage.,90
+70,Con,C1,Low return on equity.,85
+70,Con,C6,Low asset utilization.,75
+70,Pro,P2,Strong return on capital employed.,85
+70,Pro,P2,Strong return on capital employed.,85
+70,Pro,P3,Healthy net profit margin.,80
+70,Pro,P5,Excellent interest coverage.,90
+71,Pro,P2,Strong return on capital employed.,85
+71,Pro,P5,Excellent interest coverage.,90
+71,Pro,P5,Excellent interest coverage.,90
+71,Con,C1,Low return on equity.,85
+71,Con,C2,Low return on capital employed.,85
+71,Con,C6,Low asset utilization.,75
+71,Con,C1,Low return on equity.,85
+71,Con,C6,Low asset utilization.,75
+71,Pro,P5,Excellent interest coverage.,90
+71,Con,C1,Low return on equity.,85
+71,Con,C6,Low asset utilization.,75
+71,Pro,P2,Strong return on capital employed.,85
+71,Pro,P3,Healthy net profit margin.,80
+71,Con,C6,Low asset utilization.,75
+72,Con,C1,Low return on equity.,85
+72,Con,C2,Low return on capital employed.,85
+72,Con,C5,Poor interest coverage.,90
+72,Con,C6,Low asset utilization.,75
+72,Pro,P5,Excellent interest coverage.,90
+72,Con,C1,Low return on equity.,85
+72,Con,C6,Low asset utilization.,75
+72,Pro,P5,Excellent interest coverage.,90
+72,Con,C1,Low return on equity.,85
+72,Con,C6,Low asset utilization.,75
+72,Con,C6,Low asset utilization.,75
+72,Pro,P3,Healthy net profit margin.,80
+72,Con,C1,Low return on equity.,85
+72,Con,C2,Low return on capital employed.,85
+72,Con,C6,Low asset utilization.,75
+73,Pro,P2,Strong return on capital employed.,85
+73,Pro,P5,Excellent interest coverage.,90
+73,Con,C1,Low return on equity.,85
+73,Con,C1,Low return on equity.,85
+73,Con,C2,Low return on capital employed.,85
+73,Con,C6,Low asset utilization.,75
+73,Pro,P3,Healthy net profit margin.,80
+73,Con,C1,Low return on equity.,85
+73,Con,C6,Low asset utilization.,75
+73,Pro,P3,Healthy net profit margin.,80
+73,Pro,P5,Excellent interest coverage.,90
+73,Con,C1,Low return on equity.,85
+73,Con,C2,Low return on capital employed.,85
+73,Con,C6,Low asset utilization.,75
+73,Con,C1,Low return on equity.,85
+74,Pro,P2,Strong return on capital employed.,85
+74,Pro,P5,Excellent interest coverage.,90
+74,Pro,P3,Healthy net profit margin.,80
+74,Con,C2,Low return on capital employed.,85
+74,Con,C6,Low asset utilization.,75
+74,Pro,P2,Strong return on capital employed.,85
+74,Con,C6,Low asset utilization.,75
+74,Pro,P2,Strong return on capital employed.,85
+74,Pro,P5,Excellent interest coverage.,90
+74,Con,C1,Low return on equity.,85
+74,Con,C6,Low asset utilization.,75
+74,Pro,P2,Strong return on capital employed.,85
+74,Pro,P3,Healthy net profit margin.,80
+74,Pro,P5,Excellent interest coverage.,90
+75,Pro,P1,High return on equity above 20%.,90
+75,Pro,P2,Strong return on capital employed.,85
+75,Con,C6,Low asset utilization.,75
+75,Pro,P1,High return on equity above 20%.,90
+75,Pro,P2,Strong return on capital employed.,85
+75,Pro,P3,Healthy net profit margin.,80
+75,Pro,P5,Excellent interest coverage.,90
+75,Pro,P2,Strong return on capital employed.,85
+75,Con,C6,Low asset utilization.,75
+75,Pro,P3,Healthy net profit margin.,80
+75,Con,C1,Low return on equity.,85
+75,Pro,P2,Strong return on capital employed.,85
+75,Pro,P5,Excellent interest coverage.,90
+76,Pro,P1,High return on equity above 20%.,90
+76,Pro,P2,Strong return on capital employed.,85
+76,Pro,P3,Healthy net profit margin.,80
+76,Con,C6,Low asset utilization.,75
+76,Con,C1,Low return on equity.,85
+76,Pro,P5,Excellent interest coverage.,90
+76,Con,C1,Low return on equity.,85
+76,Con,C2,Low return on capital employed.,85
+76,Con,C6,Low asset utilization.,75
+76,Pro,P2,Strong return on capital employed.,85
+76,Pro,P5,Excellent interest coverage.,90
+76,Con,C6,Low asset utilization.,75
+76,Pro,P2,Strong return on capital employed.,85
+76,Pro,P3,Healthy net profit margin.,80
+76,Pro,P5,Excellent interest coverage.,90
+76,Con,C1,Low return on equity.,85
+76,Con,C6,Low asset utilization.,75
+77,Pro,P3,Healthy net profit margin.,80
+77,Pro,P5,Excellent interest coverage.,90
+77,Con,C6,Low asset utilization.,75
+77,Pro,P3,Healthy net profit margin.,80
+77,Pro,P5,Excellent interest coverage.,90
+77,Pro,P2,Strong return on capital employed.,85
+77,Pro,P5,Excellent interest coverage.,90
+77,Pro,P6,Efficient asset utilization.,75
+77,Con,C1,Low return on equity.,85
+77,Con,C6,Low asset utilization.,75
+77,Con,C1,Low return on equity.,85
+77,Con,C2,Low return on capital employed.,85
+77,Con,C6,Low asset utilization.,75
+78,Pro,P5,Excellent interest coverage.,90
+78,Con,C1,Low return on equity.,85
+78,Pro,P1,High return on equity above 20%.,90
+78,Pro,P2,Strong return on capital employed.,85
+78,Pro,P5,Excellent interest coverage.,90
+78,Pro,P3,Healthy net profit margin.,80
+78,Con,C6,Low asset utilization.,75
+78,Pro,P2,Strong return on capital employed.,85
+78,Pro,P5,Excellent interest coverage.,90
+78,Con,C6,Low asset utilization.,75
+78,Pro,P1,High return on equity above 20%.,90
+78,Pro,P2,Strong return on capital employed.,85
+78,Pro,P5,Excellent interest coverage.,90
+78,Con,C6,Low asset utilization.,75
+79,Pro,P2,Strong return on capital employed.,85
+79,Pro,P5,Excellent interest coverage.,90
+79,Con,C1,Low return on equity.,85
+79,Pro,P1,High return on equity above 20%.,90
+79,Pro,P2,Strong return on capital employed.,85
+79,Pro,P3,Healthy net profit margin.,80
+79,Pro,P5,Excellent interest coverage.,90
+79,Con,C6,Low asset utilization.,75
+79,Pro,P3,Healthy net profit margin.,80
+79,Con,C1,Low return on equity.,85
+79,Con,C2,Low return on capital employed.,85
+79,Pro,P2,Strong return on capital employed.,85
+79,Pro,P3,Healthy net profit margin.,80
+79,Pro,P5,Excellent interest coverage.,90
+79,Con,C1,Low return on equity.,85
+79,Con,C2,Low return on capital employed.,85
+79,Con,C5,Poor interest coverage.,90
+79,Con,C6,Low asset utilization.,75
+80,Pro,P4,Debt free company.,95
+80,Con,C1,Low return on equity.,85
+80,Con,C6,Low asset utilization.,75
+80,Con,C1,Low return on equity.,85
+80,Con,C6,Low asset utilization.,75
+80,Pro,P3,Healthy net profit margin.,80
+80,Con,C6,Low asset utilization.,75
+80,Pro,P3,Healthy net profit margin.,80
+80,Pro,P5,Excellent interest coverage.,90
+80,Con,C1,Low return on equity.,85
+80,Con,C6,Low asset utilization.,75
+80,Pro,P5,Excellent interest coverage.,90
+80,Pro,P6,Efficient asset utilization.,75
+81,Pro,P3,Healthy net profit margin.,80
+81,Pro,P5,Excellent interest coverage.,90
+81,Con,C1,Low return on equity.,85
+81,Pro,P5,Excellent interest coverage.,90
+81,Con,C6,Low asset utilization.,75
+81,Pro,P5,Excellent interest coverage.,90
+81,Con,C1,Low return on equity.,85
+81,Con,C2,Low return on capital employed.,85
+81,Pro,P3,Healthy net profit margin.,80
+81,Con,C1,Low return on equity.,85
+81,Con,C2,Low return on capital employed.,85
+81,Con,C5,Poor interest coverage.,90
+81,Con,C6,Low asset utilization.,75
+81,Pro,P2,Strong return on capital employed.,85
+81,Pro,P5,Excellent interest coverage.,90
+81,Con,C6,Low asset utilization.,75
+82,Pro,P2,Strong return on capital employed.,85
+82,Pro,P5,Excellent interest coverage.,90
+82,Con,C6,Low asset utilization.,75
+82,Pro,P3,Healthy net profit margin.,80
+82,Pro,P5,Excellent interest coverage.,90
+82,Con,C1,Low return on equity.,85
+82,Con,C6,Low asset utilization.,75
+82,Con,C1,Low return on equity.,85
+82,Con,C2,Low return on capital employed.,85
+82,Con,C6,Low asset utilization.,75
+82,Con,C1,Low return on equity.,85
+82,Con,C2,Low return on capital employed.,85
+82,Con,C6,Low asset utilization.,75
+83,Pro,P1,High return on equity above 20%.,90
+83,Pro,P2,Strong return on capital employed.,85
+83,Pro,P3,Healthy net profit margin.,80
+83,Pro,P5,Excellent interest coverage.,90
+83,Pro,P6,Efficient asset utilization.,75
+83,Pro,P2,Strong return on capital employed.,85
+83,Pro,P3,Healthy net profit margin.,80
+83,Pro,P6,Efficient asset utilization.,75
+83,Con,C6,Low asset utilization.,75
+83,Pro,P3,Healthy net profit margin.,80
+83,Pro,P5,Excellent interest coverage.,90
+83,Pro,P3,Healthy net profit margin.,80
+83,Con,C1,Low return on equity.,85
+83,Con,C2,Low return on capital employed.,85
+83,Con,C6,Low asset utilization.,75
+84,Pro,P1,High return on equity above 20%.,90
+84,Pro,P2,Strong return on capital employed.,85
+84,Pro,P2,Strong return on capital employed.,85
+84,Pro,P3,Healthy net profit margin.,80
+84,Pro,P5,Excellent interest coverage.,90
+84,Con,C6,Low asset utilization.,75
+84,Pro,P3,Healthy net profit margin.,80
+84,Pro,P5,Excellent interest coverage.,90
+84,Con,C1,Low return on equity.,85
+84,Con,C6,Low asset utilization.,75
+84,Pro,P2,Strong return on capital employed.,85
+84,Pro,P5,Excellent interest coverage.,90
+84,Con,C1,Low return on equity.,85
+84,Con,C6,Low asset utilization.,75
+84,Pro,P5,Excellent interest coverage.,90
+84,Con,C1,Low return on equity.,85
+84,Con,C6,Low asset utilization.,75
+85,Pro,P3,Healthy net profit margin.,80
+85,Pro,P5,Excellent interest coverage.,90
+85,Con,C1,Low return on equity.,85
+85,Con,C6,Low asset utilization.,75
+85,Con,C1,Low return on equity.,85
+85,Con,C2,Low return on capital employed.,85
+85,Con,C6,Low asset utilization.,75
+85,Pro,P3,Healthy net profit margin.,80
+85,Pro,P5,Excellent interest coverage.,90
+85,Pro,P2,Strong return on capital employed.,85
+85,Pro,P5,Excellent interest coverage.,90
+85,Con,C6,Low asset utilization.,75
+85,Pro,P5,Excellent interest coverage.,90
+85,Con,C1,Low return on equity.,85
+85,Con,C6,Low asset utilization.,75
+86,Pro,P5,Excellent interest coverage.,90
+86,Con,C1,Low return on equity.,85
+86,Con,C6,Low asset utilization.,75
+86,Con,C1,Low return on equity.,85
+86,Con,C6,Low asset utilization.,75
+86,Con,C1,Low return on equity.,85
+86,Con,C2,Low return on capital employed.,85
+86,Con,C6,Low asset utilization.,75
+86,Pro,P3,Healthy net profit margin.,80
+86,Con,C1,Low return on equity.,85
+86,Con,C6,Low asset utilization.,75
+86,Pro,P2,Strong return on capital employed.,85
+86,Pro,P5,Excellent interest coverage.,90
+86,Con,C1,Low return on equity.,85
+86,Con,C6,Low asset utilization.,75
+87,Con,C1,Low return on equity.,85
+87,Con,C2,Low return on capital employed.,85
+87,Con,C6,Low asset utilization.,75
+87,Pro,P3,Healthy net profit margin.,80
+87,Pro,P5,Excellent interest coverage.,90
+87,Con,C1,Low return on equity.,85
+87,Con,C2,Low return on capital employed.,85
+87,Con,C6,Low asset utilization.,75
+87,Pro,P1,High return on equity above 20%.,90
+87,Pro,P2,Strong return on capital employed.,85
+87,Pro,P5,Excellent interest coverage.,90
+87,Con,C6,Low asset utilization.,75
+87,Pro,P2,Strong return on capital employed.,85
+87,Pro,P3,Healthy net profit margin.,80
+87,Pro,P3,Healthy net profit margin.,80
+87,Con,C1,Low return on equity.,85
+87,Con,C2,Low return on capital employed.,85
+87,Con,C5,Poor interest coverage.,90
+87,Con,C6,Low asset utilization.,75
+88,Pro,P2,Strong return on capital employed.,85
+88,Pro,P3,Healthy net profit margin.,80
+88,Con,C6,Low asset utilization.,75
+88,Pro,P3,Healthy net profit margin.,80
+88,Pro,P5,Excellent interest coverage.,90
+88,Pro,P6,Efficient asset utilization.,75
+88,Pro,P2,Strong return on capital employed.,85
+88,Pro,P3,Healthy net profit margin.,80
+88,Pro,P5,Excellent interest coverage.,90
+88,Con,C6,Low asset utilization.,75
+88,Con,C1,Low return on equity.,85
+88,Con,C2,Low return on capital employed.,85
+88,Con,C6,Low asset utilization.,75
+88,Pro,P2,Strong return on capital employed.,85
+88,Con,C1,Low return on equity.,85
+88,Con,C6,Low asset utilization.,75
+89,Pro,P3,Healthy net profit margin.,80
+89,Pro,P5,Excellent interest coverage.,90
+89,Con,C6,Low asset utilization.,75
+89,Con,C1,Low return on equity.,85
+89,Con,C6,Low asset utilization.,75
+89,Pro,P1,High return on equity above 20%.,90
+89,Pro,P2,Strong return on capital employed.,85
+89,Pro,P3,Healthy net profit margin.,80
+89,Con,C1,Low return on equity.,85
+89,Con,C2,Low return on capital employed.,85
+89,Con,C6,Low asset utilization.,75
+89,Pro,P2,Strong return on capital employed.,85
+89,Pro,P5,Excellent interest coverage.,90
+89,Con,C6,Low asset utilization.,75
+90,Pro,P5,Excellent interest coverage.,90
+90,Con,C1,Low return on equity.,85
+90,Con,C2,Low return on capital employed.,85
+90,Con,C6,Low asset utilization.,75
+90,Pro,P3,Healthy net profit margin.,80
+90,Pro,P5,Excellent interest coverage.,90
+90,Con,C1,Low return on equity.,85
+90,Con,C1,Low return on equity.,85
+90,Con,C6,Low asset utilization.,75
+90,Con,C1,Low return on equity.,85
+90,Con,C6,Low asset utilization.,75
+90,Con,C1,Low return on equity.,85
+90,Con,C2,Low return on capital employed.,85
+90,Con,C6,Low asset utilization.,75
+91,Con,C1,Low return on equity.,85
+91,Con,C2,Low return on capital employed.,85
+91,Con,C6,Low asset utilization.,75
+91,Pro,P3,Healthy net profit margin.,80
+91,Con,C1,Low return on equity.,85
+91,Con,C2,Low return on capital employed.,85
+91,Con,C6,Low asset utilization.,75
+91,Con,C1,Low return on equity.,85
+91,Con,C2,Low return on capital employed.,85
+91,Con,C6,Low asset utilization.,75
+91,Pro,P3,Healthy net profit margin.,80
+91,Con,C6,Low asset utilization.,75
+91,Pro,P3,Healthy net profit margin.,80
+91,Con,C6,Low asset utilization.,75
+92,Pro,P3,Healthy net profit margin.,80
+92,Con,C6,Low asset utilization.,75
+92,Con,C1,Low return on equity.,85
+92,Con,C2,Low return on capital employed.,85
+92,Con,C6,Low asset utilization.,75
+92,Con,C1,Low return on equity.,85
+92,Con,C2,Low return on capital employed.,85
+92,Con,C6,Low asset utilization.,75
+92,Pro,P3,Healthy net profit margin.,80
+92,Pro,P5,Excellent interest coverage.,90
+92,Con,C6,Low asset utilization.,75
+92,Pro,P3,Healthy net profit margin.,80
+92,Con,C1,Low return on equity.,85
+92,Con,C2,Low return on capital employed.,85
+92,Con,C6,Low asset utilization.,75
